@@ -1,4 +1,8 @@
 right
+<<<<<<< HEAD
 more words
 more
 more
+=======
+more words
+>>>>>>> c01a71bd56622e87cc1ac59e69dab75e4b0a85e6

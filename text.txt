@@ -2,4 +2,4 @@
 2
 3
 4
-Change in branch-2.
+branch-1 and branch-2 merged.

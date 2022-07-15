@@ -2,5 +2,4 @@
 2
 3
 4
-Change in a branch.
-Change more in a branch.
+branch-1 and branch-2 merged.
